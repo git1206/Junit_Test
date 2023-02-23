@@ -6,7 +6,7 @@ public class DemoTest {
 	Demo obj=new Demo();
 	@Test
 	public void testSum() {
-		assertEquals(26,obj.sum(10,15));
+		assertEquals(25,obj.sum(10,15));
 	}
 
 
